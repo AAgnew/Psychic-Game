@@ -1,0 +1,13 @@
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat, repeat;
+    background-color:purple;
+    background-size: 100%;
+    background-repeat: repeat-y; 
+
+}   
+
+.lead{
+    font-family: 'Poppins', sans-serif;
+    font-size: 80px;
+}
